@@ -1,0 +1,46 @@
+/* Client Specific Custom CSS */
+
+/* MASTHEAD ===================================================== */
+	/*  !!!!!! --- IMPORTANT ---- !!!!!
+		Adjust padding-top to align text to center of logo
+		Adjust width percentage to control text wrap
+	*/
+	#sitename{
+		width:60%;
+		padding-top:12px;
+	}
+	
+	/* 
+		Optional logo right margin 
+		Use to increase or decrease right margin. Default = 34px
+	*/
+	/* #clientlogo{margin-right:34px !important;} */
+
+
+/* BANNER ======================================================= */
+.jumbotron{background: url('media/banner4.png') 0 0 no-repeat;}
+.jumbotron p{width:58%;}
+
+
+/* HEADING ====================================================== */
+h1, h2, h3, h4, h5, h6{}
+
+
+/* LINKS ========================================================= */
+a{}
+a:hover{}
+
+
+/* BUTTONS ====================================================== */
+.btn-primary {
+/* 
+color: #ffffff;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+background-color: #ff6501;
+background-image: -moz-linear-gradient(top, #fda266, #ff6501);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fda266), to(#ff6501));
+background-image: -webkit-linear-gradient(top, #fda266, #ff6501);
+background-image: -o-linear-gradient(top, #fda266, #ff6501);
+background-image: linear-gradient(to bottom, #fda266, #ff6501);
+ */
+}

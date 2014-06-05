@@ -1,0 +1,51 @@
+/* Client Specific Custom CSS */
+
+/* MASTHEAD ===================================================== */
+	/*  !!!!!! --- IMPORTANT ---- !!!!!
+		Adjust padding-top to align text to center of logo
+		Adjust width percentage to control text wrap
+	*/
+	#sitename{
+		width:60%;
+		padding-top:34px;
+	}
+	
+	/* 
+		Optional logo right margin 
+		Use to increase or decrease right margin. Default = 34px
+	*/
+	/* #clientlogo{margin-right:34px !important;} */
+
+/* 
+	BRANDING SAMPLE - 'filter:none' should be used when default navbar color is changed
+	#sitename{}
+	.navbar-inner{background:#00257b; border-bottom:solid 3px #e70033; filter:none;}
+	.nav li a{}
+	.nav li a:hover{}
+*/
+
+
+/* BANNER ======================================================= */
+.jumbotron{background: url('media/banner4.png') 0 0 no-repeat;}
+.jumbotron p{width:58%;}
+
+
+/* HEADING ====================================================== */
+h1, h2, h3, h4, h5, h6{}
+
+
+/* LINKS ========================================================= */
+a{}
+a:hover{}
+
+
+/* BUTTONS ====================================================== */
+.btn-primary {
+color: #ffffff;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+background-color: #058ec7;
+background-image: none;
+}
+
+.btn-primary:hover{background-color:#2aafe7}
+.btn-primary.disabled, .btn-primary[disabled]{background-color:#bbb}

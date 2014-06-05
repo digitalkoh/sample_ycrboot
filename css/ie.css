@@ -1,0 +1,4 @@
+.navbar-inner{width:100%;}
+
+#selectLang a span:first-child{padding:1px 1px 1px 20px; background-position:0 0;}
+.caret{border-top:0 !important;}

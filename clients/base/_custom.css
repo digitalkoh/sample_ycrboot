@@ -1,0 +1,32 @@
+/* Client Specific Custom CSS */
+
+/* MASTHEAD ===================================================== */
+
+
+
+/* BANNER ======================================================= */
+
+
+
+/* HEADING ====================================================== */
+h1, h2, h3, h4, h5, h6{}
+
+
+/* LINKS ========================================================= */
+a{}
+a:hover{}
+
+
+/* BUTTONS ====================================================== */
+.btn-primary {
+/* 
+color: #ffffff;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+background-color: #ff6501;
+background-image: -moz-linear-gradient(top, #fda266, #ff6501);
+background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#fda266), to(#ff6501));
+background-image: -webkit-linear-gradient(top, #fda266, #ff6501);
+background-image: -o-linear-gradient(top, #fda266, #ff6501);
+background-image: linear-gradient(to bottom, #fda266, #ff6501);
+ */
+}

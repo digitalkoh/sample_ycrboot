@@ -1,0 +1,1 @@
+<p class="programs">CHIP provides low-cost health insurance to children up to age 19. It's available to families who earn too much to qualify for Medicaid but who can't afford to buy private health insurance. In some states, CHIP may also be available for pregnant women. Each state has its own eligibility rules.</p>
